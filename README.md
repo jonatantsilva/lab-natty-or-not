@@ -52,7 +52,6 @@
 
 ---
 
-<p>📫 <strong>Fale comigo</strong>: <a href="https://www.dio.me/users/jhsiillva">Dio.me</a></p>
 <p>🔗 <strong>Conecte-se</strong>: <a href="https://www.linkedin.com/in/jonsiillva/">LinkedIn</a> 
 
 ---
